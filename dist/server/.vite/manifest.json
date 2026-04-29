@@ -1,0 +1,257 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "C:/Users/nikita.n/Desktop/rr/src/styles.css": {
+    "file": "assets/styles-BUIU-Lz4.css",
+    "src": "C:/Users/nikita.n/Desktop/rr/src/styles.css"
+  },
+  "_SectionHeading-u-sqC-cj.js": {
+    "file": "assets/SectionHeading-u-sqC-cj.js",
+    "name": "SectionHeading",
+    "imports": [
+      "_worker-entry-CVljLaDE.js",
+      "_router-18951-ir.js"
+    ],
+    "assets": [
+      "assets/logo-K7pXL8wE.png"
+    ]
+  },
+  "_about-studio-Cc8thWkL.js": {
+    "file": "assets/about-studio-Cc8thWkL.js",
+    "name": "about-studio",
+    "assets": [
+      "assets/about-studio-J6prVFa8.jpg"
+    ]
+  },
+  "_arrow-right-BW27vrmI.js": {
+    "file": "assets/arrow-right-BW27vrmI.js",
+    "name": "arrow-right",
+    "imports": [
+      "_SectionHeading-u-sqC-cj.js"
+    ]
+  },
+  "_gallery-4-Dd88bqQC.js": {
+    "file": "assets/gallery-4-Dd88bqQC.js",
+    "name": "gallery-4",
+    "assets": [
+      "assets/gallery-1-5WtBEIAM.jpg",
+      "assets/gallery-2-BbEdC8tX.jpg",
+      "assets/gallery-3-knNwGeSY.jpg",
+      "assets/gallery-4-CHkl6Z6R.jpg"
+    ]
+  },
+  "_gallery-5-BJPcb06U.js": {
+    "file": "assets/gallery-5-BJPcb06U.js",
+    "name": "gallery-5",
+    "assets": [
+      "assets/gallery-5-59V9yX_x.jpg"
+    ]
+  },
+  "_router-18951-ir.js": {
+    "file": "assets/router-18951-ir.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CVljLaDE.js"
+    ],
+    "dynamicImports": [
+      "src/routes/services.tsx?tsr-split=component",
+      "src/routes/gallery.tsx?tsr-split=component",
+      "src/routes/contact.tsx?tsr-split=component",
+      "src/routes/about.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/styles-BUIU-Lz4.css"
+    ]
+  },
+  "_service-interior-BSnfDQ6g.js": {
+    "file": "assets/service-interior-BSnfDQ6g.js",
+    "name": "service-interior",
+    "assets": [
+      "assets/service-ppf-mVumfmcz.jpg",
+      "assets/service-interior-DSBKYbNa.jpg"
+    ]
+  },
+  "_service-polish-BvicSzFs.js": {
+    "file": "assets/service-polish-BvicSzFs.js",
+    "name": "service-polish",
+    "assets": [
+      "assets/service-ceramic-D3UTk24i.jpg",
+      "assets/service-polish-BLIg6KeL.jpg"
+    ]
+  },
+  "_worker-entry-CVljLaDE.js": {
+    "file": "assets/worker-entry-CVljLaDE.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "_router-18951-ir.js",
+      "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts": {
+    "file": "assets/start-HYkvq4Ni.js",
+    "name": "start",
+    "src": "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+    "isDynamicEntry": true
+  },
+  "src/assets/about-studio.jpg": {
+    "file": "assets/about-studio-J6prVFa8.jpg",
+    "src": "src/assets/about-studio.jpg"
+  },
+  "src/assets/gallery-1.jpg": {
+    "file": "assets/gallery-1-5WtBEIAM.jpg",
+    "src": "src/assets/gallery-1.jpg"
+  },
+  "src/assets/gallery-2.jpg": {
+    "file": "assets/gallery-2-BbEdC8tX.jpg",
+    "src": "src/assets/gallery-2.jpg"
+  },
+  "src/assets/gallery-3.jpg": {
+    "file": "assets/gallery-3-knNwGeSY.jpg",
+    "src": "src/assets/gallery-3.jpg"
+  },
+  "src/assets/gallery-4.jpg": {
+    "file": "assets/gallery-4-CHkl6Z6R.jpg",
+    "src": "src/assets/gallery-4.jpg"
+  },
+  "src/assets/gallery-5.jpg": {
+    "file": "assets/gallery-5-59V9yX_x.jpg",
+    "src": "src/assets/gallery-5.jpg"
+  },
+  "src/assets/gallery-6.jpg": {
+    "file": "assets/gallery-6-B6ylGY0g.jpg",
+    "src": "src/assets/gallery-6.jpg"
+  },
+  "src/assets/hero-detail.jpg": {
+    "file": "assets/hero-detail-D28C7gVK.jpg",
+    "src": "src/assets/hero-detail.jpg"
+  },
+  "src/assets/hero-phantom.jpg": {
+    "file": "assets/hero-phantom-CeBnP2N0.jpg",
+    "src": "src/assets/hero-phantom.jpg"
+  },
+  "src/assets/logo.png": {
+    "file": "assets/logo-K7pXL8wE.png",
+    "src": "src/assets/logo.png"
+  },
+  "src/assets/service-ceramic.jpg": {
+    "file": "assets/service-ceramic-D3UTk24i.jpg",
+    "src": "src/assets/service-ceramic.jpg"
+  },
+  "src/assets/service-interior.jpg": {
+    "file": "assets/service-interior-DSBKYbNa.jpg",
+    "src": "src/assets/service-interior.jpg"
+  },
+  "src/assets/service-polish.jpg": {
+    "file": "assets/service-polish-BLIg6KeL.jpg",
+    "src": "src/assets/service-polish.jpg"
+  },
+  "src/assets/service-ppf.jpg": {
+    "file": "assets/service-ppf-mVumfmcz.jpg",
+    "src": "src/assets/service-ppf.jpg"
+  },
+  "src/assets/video.mp4": {
+    "file": "assets/video-DQ_7fQn0.mp4",
+    "src": "src/assets/video.mp4"
+  },
+  "src/routes/about.tsx?tsr-split=component": {
+    "file": "assets/about-BikcliL4.js",
+    "name": "about",
+    "src": "src/routes/about.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CVljLaDE.js",
+      "_router-18951-ir.js",
+      "_SectionHeading-u-sqC-cj.js",
+      "_about-studio-Cc8thWkL.js",
+      "_gallery-5-BJPcb06U.js",
+      "_arrow-right-BW27vrmI.js"
+    ]
+  },
+  "src/routes/contact.tsx?tsr-split=component": {
+    "file": "assets/contact-C5QDSlEA.js",
+    "name": "contact",
+    "src": "src/routes/contact.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CVljLaDE.js",
+      "_SectionHeading-u-sqC-cj.js",
+      "_arrow-right-BW27vrmI.js",
+      "_router-18951-ir.js"
+    ]
+  },
+  "src/routes/gallery.tsx?tsr-split=component": {
+    "file": "assets/gallery-D4FdTM8B.js",
+    "name": "gallery",
+    "src": "src/routes/gallery.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CVljLaDE.js",
+      "_SectionHeading-u-sqC-cj.js",
+      "_gallery-4-Dd88bqQC.js",
+      "_gallery-5-BJPcb06U.js",
+      "_service-polish-BvicSzFs.js",
+      "_router-18951-ir.js"
+    ],
+    "assets": [
+      "assets/gallery-6-B6ylGY0g.jpg"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-De2hxP3O.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CVljLaDE.js",
+      "_router-18951-ir.js",
+      "_SectionHeading-u-sqC-cj.js",
+      "_service-polish-BvicSzFs.js",
+      "_service-interior-BSnfDQ6g.js",
+      "_about-studio-Cc8thWkL.js",
+      "_gallery-4-Dd88bqQC.js",
+      "_arrow-right-BW27vrmI.js"
+    ],
+    "assets": [
+      "assets/video-DQ_7fQn0.mp4",
+      "assets/hero-phantom-CeBnP2N0.jpg",
+      "assets/hero-detail-D28C7gVK.jpg"
+    ]
+  },
+  "src/routes/services.tsx?tsr-split=component": {
+    "file": "assets/services-D5dTrWjE.js",
+    "name": "services",
+    "src": "src/routes/services.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CVljLaDE.js",
+      "_router-18951-ir.js",
+      "_SectionHeading-u-sqC-cj.js",
+      "_service-polish-BvicSzFs.js",
+      "_service-interior-BSnfDQ6g.js",
+      "_arrow-right-BW27vrmI.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-B63egQNF.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-CVljLaDE.js"
+    ]
+  }
+}
