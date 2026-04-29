@@ -77,7 +77,7 @@ function HomePage() {
               </span>
             </div>
 
-            <h1 className="font-display text-white leading-[0.92] text-[14vw] sm:text-7xl lg:text-[6.5rem] xl:text-[7.5rem]">
+            <h1 className="font-display text-white leading-[0.92] text-[12vw] sm:text-6xl lg:text-[5.5rem] xl:text-[6.5rem]">
               <span className="block animate-rise" style={{ animationDelay: "0.2s" }}>The Art</span>
               <span className="block animate-rise italic font-light text-white/80" style={{ animationDelay: "0.4s" }}>
                 of <span className="text-shimmer not-italic font-normal">Automotive</span>

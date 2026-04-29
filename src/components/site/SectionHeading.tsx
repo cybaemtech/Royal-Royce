@@ -10,7 +10,7 @@ export function SectionHeading({
   align?: "left" | "center";
 }) {
   return (
-    <div className={`max-w-2xl ${align === "center" ? "mx-auto text-center" : ""}`}>
+    <div className={`w-full max-w-4xl ${align === "center" ? "mx-auto text-center" : ""}`}>
       {eyebrow && (
         <div className={`flex items-center gap-3 mb-5 ${align === "center" ? "justify-center" : ""}`}>
           <span className="gold-divider" />
@@ -18,7 +18,7 @@ export function SectionHeading({
           <span className="gold-divider" />
         </div>
       )}
-      <h2 className="font-display text-4xl md:text-5xl lg:text-6xl text-navy leading-[1.05]">
+      <h2 className="font-display text-3xl md:text-4xl lg:text-[2.75rem] text-navy leading-tight">
         {title}
       </h2>
       {description && (
